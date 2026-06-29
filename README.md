@@ -26,7 +26,7 @@ Im currently working part-time in [Tecnoback](https://www.tecnoback.com/) as a S
 
 You can check my pinned projects, which are my main ones ;)
 
-<img src="https://github.com/bsttiv/bsttiv/blob/main/gifs/a7e063cfc791bc3c3b979af64a9fcb4d.gif?raw=true" style="display:block; margin:0 auto;" width="50%" align="center" alt="Fan">
+<img src="https://github.com/bsttiv/bsttiv/blob/main/gifs/a7e063cfc791bc3c3b979af64a9fcb4d.gif?raw=true" style="display:block; margin:0 auto;" width="30%" align="center" alt="Fan">
 </div>
 
 
